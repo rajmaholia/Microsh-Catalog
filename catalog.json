@@ -1,21 +1,21 @@
 {
   "catalog-version": 1,
   "apps": {
-      "pomodoro": {
+    "pomodoro": {
         "latest": "1.0.0",
         "versions": {
           "1.0.0": {
-          "url": "https://github.com/rajmaholia/pomodoro/archive/refs/tags/v1.0.0.tar.gz",
-          "sha256": "4ef440e444c3036c5359aaf0667f928e096553dc64426d031bb7f0cd92f917d4"
+            "url": "https://github.com/rajmaholia/pomodoro/archive/refs/tags/v1.0.0.tar.gz",
+            "sha256": "4ef440e444c3036c5359aaf0667f928e096553dc64426d031bb7f0cd92f917d4"
+          }
         }
       },
-      "snapcast": {
-        "latest": "1.0.0",
-        "versions": {
-          "1.0.0": {
-            "url": "https://github.com/rajmaholia/snapcast/archive/refs/tags/v1.0.0.tar.gz",
-            "sha256": "9b5993475c08832cfa0530096c49a9a50fa21ed52af595d4e56e72ff6e6a1dc7"
-          }
+    "snapcast": {
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/rajmaholia/snapcast/archive/refs/tags/v1.0.0.tar.gz",
+          "sha256": "9b5993475c08832cfa0530096c49a9a50fa21ed52af595d4e56e72ff6e6a1dc7"
         }
       }
     }
