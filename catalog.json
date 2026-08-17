@@ -18,6 +18,24 @@
           "sha256": "9b5993475c08832cfa0530096c49a9a50fa21ed52af595d4e56e72ff6e6a1dc7"
         }
       }
+    },
+    "Qnote": {
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/rajmaholia/Qnote/archive/refs/tags/v1.0.0.tar.gz",
+          "sha256": "cd3add561ca9712e6665efd61a306a72246ecec1359ee95258cfa69b90096168"
+        }
+      }
+    },
+    "Qtodo": {
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/rajmaholia/Qtodo/releases/download/v1.0.0/Qtodo-v1.0.0.tar.gz",
+          "sha256": "88f1f459683675aa58c4a141994ab7d25018cf2017b9810ee40639fa71fa0431"
+        }
+      }
     }
   }
 }
