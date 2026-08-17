@@ -6,7 +6,7 @@
         "versions": {
           "1.0.0": {
             "url": "https://github.com/rajmaholia/pomodoro/archive/refs/tags/v1.0.0.tar.gz",
-            "sha256": "4ef440e444c3036c5359aaf0667f928e096553dc64426d031bb7f0cd92f917d4"
+            "sha256": "9565bb2359eb60fd29a5a8b085f3b5cdfe95f58b5063e8285e84a153a942cbaa"
           }
         }
       },
@@ -20,20 +20,20 @@
       }
     },
     "Qnote": {
-      "latest": "1.0.0",
+      "latest": "1.0.1",
       "versions": {
-        "1.0.0": {
-          "url": "https://github.com/rajmaholia/Qnote/archive/refs/tags/v1.0.0.tar.gz",
-          "sha256": "cd3add561ca9712e6665efd61a306a72246ecec1359ee95258cfa69b90096168"
+        "1.0.1": {
+          "url": "https://github.com/rajmaholia/Qnote/releases/download/v1.0.1/Qnote-v1.0.1.tar.gz",
+          "sha256": "a890a578fdd053ecd073d03bcddf11eed3c8e19b73a61632305511f64d63aa8d"
         }
       }
     },
     "Qtodo": {
-      "latest": "1.0.0",
+      "latest": "1.0.1",
       "versions": {
-        "1.0.0": {
-          "url": "https://github.com/rajmaholia/Qtodo/releases/download/v1.0.0/Qtodo-v1.0.0.tar.gz",
-          "sha256": "88f1f459683675aa58c4a141994ab7d25018cf2017b9810ee40639fa71fa0431"
+        "1.0.1": {
+          "url": "https://github.com/rajmaholia/Qtodo/releases/download/v1.0.1/Qtodo-v1.0.1.tar.gz",
+          "sha256": "7ba126f0338a29ad4d5393c69fe630c4d76d456029068cee7c1a8f17b5884d69"
         }
       }
     }
