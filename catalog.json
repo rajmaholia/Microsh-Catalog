@@ -5,7 +5,7 @@
         "latest": "1.0.0",
         "versions": {
           "1.0.0": {
-            "url": "https://github.com/rajmaholia/pomodoro/archive/refs/tags/v1.0.0.tar.gz",
+            "url": "https://github.com/rajmaholia/pomodoro/releases/download/v1.0.0/pomodoro-v1.0.0.tar.gz",
             "sha256": "9565bb2359eb60fd29a5a8b085f3b5cdfe95f58b5063e8285e84a153a942cbaa"
           }
         }
