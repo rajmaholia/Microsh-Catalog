@@ -2,14 +2,18 @@
   "catalog-version": 1,
   "apps": {
     "pomodoro": {
-        "latest": "1.0.0",
+        "latest": "1.0.1",
         "versions": {
           "1.0.0": {
             "url": "https://github.com/rajmaholia/pomodoro/releases/download/v1.0.0/pomodoro-v1.0.0.tar.gz",
             "sha256": "9565bb2359eb60fd29a5a8b085f3b5cdfe95f58b5063e8285e84a153a942cbaa"
+          },
+          "1.0.1": {
+            "url": "https://github.com/rajmaholia/pomodoro/releases/download/v1.0.1/pomodoro-v1.0.1.tar.gz",
+            "sha256": "df6ad6f1744eb847216567a0157a1444f7ca431cdf61b723e21fa3fd803214b8"
           }
         }
-      },
+    },
     "snapcast": {
       "latest": "1.0.0",
       "versions": {
