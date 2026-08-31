@@ -52,6 +52,15 @@
           "sha256": "bd567a224ee2bdc5ab4957704463dfb0971be6410b84dcdf7d0646ab94774ab9"
         }
       }
+    },
+    "termux-backup-tools": {
+      "latest": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "url": "https://github.com/rajmaholia/QBackup/archive/refs/tags/v1.0.0.tar.gz",
+          "sha256": "b99d8bde45244c6c71ec7bbd2deca813697ce79acfdb7decad9b65a9347b2472"
+        }
+      }
     }
   }
 }
